@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DayPulse</string>
+    <string name="nav_routine">Routine</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="nav_notes_habits">Notes &amp; Habits</string>
+    <string name="greeting_morning">Good Morning</string>
+    <string name="greeting_afternoon">Good Afternoon</string>
+    <string name="greeting_evening">Good Evening</string>
+    <string name="current_focus_label">I\'M DOING NOW</string>
+    <string name="auto_sync_block">Auto-Sync Block</string>
+    <string name="daily_progress">Daily Progress</string>
+    <string name="section_morning">Morning Routine</string>
+    <string name="section_afternoon">Afternoon / Work &amp; Study</string>
+    <string name="section_evening">Evening / Night</string>
+    <string name="live_now">LIVE NOW</string>
+    <string name="add_time_block">Add Time Block</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="quick_scratchpad">Quick Scratchpad</string>
+    <string name="daily_log">Daily Thought Log</string>
+    <string name="habit_water">Water Intake</string>
+    <string name="habit_study">Study &amp; Focus Hours</string>
+    <string name="auto_saved_locally">Auto-saved on device</string>
+</resources>

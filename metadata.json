@@ -1,0 +1,6 @@
+{
+  "name": "DayPulse",
+  "description": "A daily tracking and time-blocked routine app with a live clock, focus timer, personal reminders, scratchpad notes, and habit trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
